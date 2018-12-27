@@ -1,5 +1,6 @@
 # Python Example
 # MH CHANGE
+# cs 1110
 class Person:
     def __init__(self,name,age):
         self.name = name
